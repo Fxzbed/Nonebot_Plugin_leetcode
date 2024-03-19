@@ -9,9 +9,9 @@ Python爬取leetcode每日一题并以图片发送
 
 ---
 
-- [ ] /leetcode_update 更新每日一题
-- [ ] /leetcode 发送每日一题图片
-- [ ] /lc_hp 发送命令帮助
+- /leetcode_update 更新每日一题
+- /leetcode 发送每日一题图片
+- /lc_hp 发送命令帮助
 
 ### 使用方法
 
